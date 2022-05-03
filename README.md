@@ -1,9 +1,7 @@
 # Site responsivo
  
 
-
-<img src="./assets/site.png" width="200px"  alt="imagem site">
-<img src="./assets/responsivo.png" width="200px" alt="imagem responsiva">
+<img src="./assets/site.png" width="300px" height="190px" alt="imagem site"> <img src="./assets/responsivo.png" width="92px" alt="imagem responsiva">
 
 > Resultado do projeto!
 
